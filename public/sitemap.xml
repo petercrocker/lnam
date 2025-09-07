@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/code-of-conduct.de/</loc>
+  </url><url>
+    <loc>http://localhost:1313/code-of-conduct/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imprint/</loc>
+  </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/location/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/speakers/pete-crocker-a7acce50-7f7e-476d-9e02-e9cd3e236c35/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/sessions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/speakers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sponsors/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sessions/welcome-to-lnam-1029210/</loc>
+    <priority>0</priority>
+  </url>
+</urlset>
