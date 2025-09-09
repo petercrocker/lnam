@@ -12,14 +12,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;about-lnam&#34;&gt;About LNAM&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading heading--2&#34; id=&#34;organisers&#34;&gt;Organisers&lt;/h2&gt;&lt;p&gt;The London Network Automation Meetup is a volunteer-run meetup and organised by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/rick-donato/&#34;rel=&#34;external&#34;&gt;Rick Donato&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/ataylor/&#34;rel=&#34;external&#34;&gt;Andy Taylor&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/petercrocker/&#34;rel=&#34;external&#34;&gt;Pete Crocker&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/suresh-vina-282545a9/&#34;rel=&#34;external&#34;&gt;Suresh Vina&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/gary-woodward-b865199/&#34;rel=&#34;external&#34;&gt;Gary Woodward&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/suhaibsaeed/&#34;rel=&#34;external&#34;&gt;Suhaib Saeed&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/code-of-conduct.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/code-of-conduct.de/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;verhaltenskodex&#34;&gt;Verhaltens­kodex&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading heading--2&#34; id=&#34;zielsetzung&#34;&gt;Zielsetzung&lt;/h2&gt;&lt;p&gt;Alle Konferenzen und Gruppen, die sich auf diesen Verhaltenskodex beziehen, haben es sich als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung, Herkunft, Religion (oder deren Nichtvorhandensein) sowie gesellschaftlichem und wirtschaftlichem Status.&lt;/p&gt;&#xA;&lt;p&gt;Dieser Verhaltenskodex umreißt unsere Erwartungen an alle Beteiligten unserer Community, sowie die Konsequenzen für inakzeptables Verhalten.&lt;/p&gt;</description>
+      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;about-lnam&#34;&gt;About LNAM&lt;/h1&gt;&lt;p&gt;The London Network Automation Meetup (LNAM) is a volunteer-run meetup focused on hosting periodic meetups in London focused around network automation.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;heading heading--2&#34; id=&#34;history&#34;&gt;History&lt;/h2&gt;&lt;p&gt;The London Network Automation Meetup was first organized in 2017 by &lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/csilla-bessenyei-4114663b/&#34;rel=&#34;external&#34;&gt;Csilla Bessenyei&lt;/a&gt;&#xA; and had 14 meetups before taking a hiatus in 2022.&lt;/p&gt;&#xA;&lt;p&gt;A new team of volunteers has resurrected the meetup in 2025.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;heading heading--2&#34; id=&#34;organisers&#34;&gt;Organisers&lt;/h2&gt;&lt;p&gt;The London Network Automation Meetup is a volunteer-run meetup and organised by:&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -30,24 +23,24 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/imprint/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;imprint&#34;&gt;Imprint&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;+++ THIS IS JUST A SAMPLE +++&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Disclosures according to § 5 TMG&lt;/p&gt;&#xA;&lt;p&gt;Max Muster&lt;br&gt;&#xA;Musterweg&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;&#xA;&lt;p&gt;Editorially responsible&lt;/p&gt;&#xA;&lt;p&gt;Max Muster&lt;br&gt;&#xA;Musterweg&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;+++ THIS IS JUST A SAMPLE +++&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Privacy Policy of Company Name&lt;/p&gt;&#xA;&lt;p&gt;Company Name operates the Website Name website, which provides the SERVICE.&lt;/p&gt;&#xA;&lt;p&gt;This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Website Name website.&lt;/p&gt;&#xA;&lt;p&gt;If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Location</title>
       <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/location/</guid>
+      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;lnam-location&#34;&gt;LNAM Location&lt;/h1&gt;&lt;p&gt;The LNAM event will be hosted thanks to AWS at their offices in London:&lt;/p&gt;&#xA;&lt;p&gt;AWS Experience&lt;br&gt;&#xA;60 Holborn Viaduct&lt;br&gt;&#xA;London EC1A 2FD&lt;br&gt;&#xA;United Kingdom&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://maps.app.goo.gl/C29jkcDcuAyGbWDm7&#34;rel=&#34;external&#34;&gt;Google Maps Location&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Andy Taylor</title>
+      <link>http://localhost:1313/speakers/andy-taylor-7e164b6e-d360-4869-95d0-8c600e8d703d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/andy-taylor-7e164b6e-d360-4869-95d0-8c600e8d703d/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Gary Woodward N/A</title>
+      <link>http://localhost:1313/speakers/gary-woodward-n/a-9bba047a-de0d-4653-adf9-56fbedcdf3d0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/gary-woodward-n/a-9bba047a-de0d-4653-adf9-56fbedcdf3d0/</guid>
+      <description>&lt;p&gt;Delivering courses and Tech Sessions on the PacketCoders platform, covering a wide range of popular Network Automation topics. With extensive experience across both the SaaS and Telco industries, I have worked at the intersection of software and networking for many years. Today, my focus is on bridging Network Automation and AI to deliver meaningful business outcomes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pete Crocker</title>
@@ -57,7 +50,14 @@
       <description>&lt;p&gt;&lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;https://www.linkedin.com/in/petercrocker/&#34;rel=&#34;external&#34;&gt;https://www.linkedin.com/in/petercrocker/&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sponsors &amp; Partners</title>
+      <title>RAG for Networks: Building AI-Ready Knowledge Bases</title>
+      <link>http://localhost:1313/sessions/rag-for-networks-building-ai-ready-knowledge-bases-1030176/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/rag-for-networks-building-ai-ready-knowledge-bases-1030176/</guid>
+      <description>&lt;p&gt;Retrieval-Augmented Generation (RAG) is becoming a cornerstone of enterprise AI adoption, but how can it be applied effectively in the world of networking? In this session, we’ll define RAG in plain terms and show how it can deliver tangible business benefits by transforming fragmented network documentation, design records and network procedures into an AI-ready knowledge base.&lt;/p&gt;&#xA;&lt;p&gt;We’ll explore why RAG is particularly relevant for networking and how it differs from MCP-style orchestration and Agentic actions. Attendees will learn why traditional text chunking and vector databases, while useful, are not enough on their own. Instead, we’ll demonstrate how a graph-aware format like JSON-LD can supercharge retrieval precision, enabling GenAI systems to reason over complex network relationships.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sponsors</title>
       <link>http://localhost:1313/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sponsors/</guid>

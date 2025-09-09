@@ -4,16 +4,14 @@ title: 'London Network Automation Meetup'
 
 theme: event
 sectionPagesMenu: main
+defaultContentLanguage: en
 
 languages:
+  _merge: deep
   en:
     languageName: English
-    params:
-      themes:
-        event:
-          slogan: "London Network Automation Meetup"
-          description: "London Network Automation Meetup"
-          aboutUs: "https://www.linkedin.com/company/london-network-automation-meetup/"
+    disabled: false
+
     menus:
       main:
         - identifier: sessions
@@ -22,19 +20,36 @@ languages:
         - identifier: speakers
           pageRef: /speakers
           weight: 20
+        - identifier: sponsors
+          pageRef: /sponsors
+          weight: 30
+        - identifier: location
+          pageRef: /location
+          weight: 40
         - identifier: about
           pageRef: /about
-          weight: 30
+          weight: 50
 
-          # params:
-          #     description: Erfahren Sie wer wir sind uns was uns antreibt.
       footer:
         - identifier: code_of_conduct
           pageRef: /code-of-conduct
-          weight: 10
-      #   - identifier: imprint
-      #     pageRef: /imprint
-      #     weight: 20
+          weight: 50
+          params:
+            description: |
+              Learn more about our mission, values, and the people behind our organization.
+              The "About Us" page provides insights into who we are, what we do,
+              and why we're passionate about our work.
+
+    params:
+      themes:
+        event:
+          slogan: ""
+          description: |
+            The London Network Automation Meetup (LNAM) is a volunteer-run meetup focused
+            on hosting periodic meetups in London focused around network automation.
+          # aboutUs: "https://www.linkedin.com/company/london-network-automation-meetup/"
+
+
 params:
   contact:
     email: lnam@networkautomation.group
@@ -80,11 +95,11 @@ params:
         titleBackground: images/background.png
         # 👇 Image showcasing the building or venue where the event will take place.
         location: https://assets.aboutamazon.com/dims4/default/c8d7186/2147483647/strip/true/crop/5464x8192+0+0/resize/496x743!/format/webp/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9d%2Fba%2F469dd8ed42ac9aadef53302e7b24%2Flondon-stock-image-shoot-lhr16.jpg
-      # sponsors:
-      #   - logo:
-      #     url:
-      #     # 👇 This name is used as the alt text for the logo
-      #     name:
+      sponsors:
+        - logo: aws.png
+          url: https://aws.amazon.com/
+          # 👇 This name is used as the alt text for the logo
+          name: AWS
       # partners:
       #   - logo:
       #     url:

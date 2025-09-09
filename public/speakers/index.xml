@@ -8,6 +8,20 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Andy Taylor</title>
+      <link>http://localhost:1313/speakers/andy-taylor-7e164b6e-d360-4869-95d0-8c600e8d703d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/andy-taylor-7e164b6e-d360-4869-95d0-8c600e8d703d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gary Woodward N/A</title>
+      <link>http://localhost:1313/speakers/gary-woodward-n/a-9bba047a-de0d-4653-adf9-56fbedcdf3d0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/gary-woodward-n/a-9bba047a-de0d-4653-adf9-56fbedcdf3d0/</guid>
+      <description>&lt;p&gt;Delivering courses and Tech Sessions on the PacketCoders platform, covering a wide range of popular Network Automation topics. With extensive experience across both the SaaS and Telco industries, I have worked at the intersection of software and networking for many years. Today, my focus is on bridging Network Automation and AI to deliver meaningful business outcomes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pete Crocker</title>
       <link>http://localhost:1313/speakers/pete-crocker-a7acce50-7f7e-476d-9e02-e9cd3e236c35/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

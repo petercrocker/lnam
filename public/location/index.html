@@ -5,23 +5,36 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="shortcut icon" href="http://localhost:1313/favicon.ico" />
 
-        <title>Location -
+        <title>
             London Network Automation Meetup
         </title>
 
-        <meta name="description" content="London Network Automation Meetup" />
+        <meta name="description" content="The London Network Automation Meetup (LNAM) is a volunteer-run meetup focused
+on hosting periodic meetups in London focused around network automation." />
 
         
 
         <meta property="og:url" content="http://localhost:1313/location/">
   <meta property="og:site_name" content="London Network Automation Meetup">
-  <meta property="og:title" content="Location">
+  <meta property="og:title" content="London Network Automation Meetup">
+  <meta property="og:description" content="LNAM LocationThe LNAM event will be hosted thanks to AWS at their offices in London:
+AWS Experience
+60 Holborn Viaduct
+London EC1A 2FD
+United Kingdom
+Google Maps Location">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
 
         
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Location">
+  <meta name="twitter:title" content="London Network Automation Meetup">
+  <meta name="twitter:description" content="LNAM LocationThe LNAM event will be hosted thanks to AWS at their offices in London:
+AWS Experience
+60 Holborn Viaduct
+London EC1A 2FD
+United Kingdom
+Google Maps Location">
 
 
         
@@ -38,6 +51,19 @@
         --color-secondary-darker:#A8ACB0;
         --color-track:#015a57;
         --color-shadow:#a6afc366;
+      }
+      
+       
+      .page-header__social-links {
+        display: flex;
+        align-items: center;
+        margin-left: 1rem;
+      }
+      
+      .page-header__actions {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
       }
     </style>
     </head>
@@ -92,6 +118,18 @@
         </li>
         <li>
             <a
+                href="/sponsors/"
+                    class="header-menu__link">Sponsors
+            </a>
+        </li>
+        <li>
+            <a
+                href="/location/"
+                    class="header-menu__link header-menu__link--active" aria-current="page">Location
+            </a>
+        </li>
+        <li>
+            <a
                 href="/about/"
                     class="header-menu__link">About Us
             </a>
@@ -100,6 +138,9 @@
 
                         </div>
                     </div>
+
+                    
+                    <div class="page-header__actions">
 
 
     
@@ -128,6 +169,44 @@
     </a>
 
 
+                        
+                        
+                        <div class="page-header__social-links">
+
+
+
+
+<label id="social-links-list-label-4" class="sr-only"></label>
+
+<ul class="social-links" aria-labelledby="social-links-list-label-4">
+        <li class="social-links__menu-item">
+            <a
+                href="https://www.linkedin.com/company/london-network-automation-meetup/"
+                aria-label="LinkedIn"
+                target="_blank"
+                rel="noopener noreferrer external"
+                class="social-links__link page-header__social-link"><svg width="100%" height="100%" viewBox="5 5 30 30" xmlns="http://www.w3.org/2000/svg">
+    <path
+        fill="currentColor"
+        d="M10.9886 8.41679C10.9882 9.25664 10.6542 10.0619 10.06 10.6555C9.46583 11.2491 8.66021 11.5823 7.82036 11.5819C6.9805 11.5814 6.17522 11.2474 5.58165 10.6533C4.98808 10.0591 4.65485 9.25347 4.65527 8.41362C4.65569 7.57377 4.98973 6.76848 5.58389 6.17491C6.17805 5.58134 6.98367 5.24812 7.82352 5.24854C8.66338 5.24896 9.46866 5.58299 10.0622 6.17715C10.6558 6.77131 10.989 7.57693 10.9886 8.41679ZM11.0836 13.9268H4.75027V33.7501H11.0836V13.9268ZM21.0903 13.9268H14.7886V33.7501H21.0269V23.3476C21.0269 17.5526 28.5794 17.0143 28.5794 23.3476V33.7501H34.8336V21.1943C34.8336 11.4251 23.6553 11.7893 21.0269 16.5868L21.0903 13.9268Z" />
+</svg>
+
+            </a>
+        </li>
+    
+        <li class="social-links__menu-item">
+            <a
+                href="https://join.slack.com/t/net-automation-group/shared_invite/zt-3d1tvc1x2-emU7MwZbYU6~zNLbwE~rPA"
+                aria-label="Slack"
+                target="_blank"
+                rel="noopener noreferrer external"
+                class="social-links__link page-header__social-link"><img src="/slack.png" alt="Slack" width="24" height="24" />
+            </a>
+        </li>
+    
+</ul>
+                        </div>
+                    </div>
                 </nav>
             </div>
         </header>
@@ -193,9 +272,23 @@
         </li>
         <li class="sidebar-menu__item">
             <a
+                href="/sponsors/"
+                    class="sidebar-menu__link"
+                aria-label="Sponsors &amp; Partners">Sponsors
+            </a>
+        </li>
+        <li class="sidebar-menu__item">
+            <a
+                href="/location/"
+                    class="sidebar-menu__link sidebar-menu__link--active" aria-current="page"
+                aria-label="">Location
+            </a>
+        </li>
+        <li class="sidebar-menu__item">
+            <a
                 href="/about/"
                     class="sidebar-menu__link"
-                aria-label="About Us">About Us
+                aria-label="">About Us
             </a>
         </li>
 </ul>
@@ -207,9 +300,9 @@
 
 
 
-<label id="social-links-list-label-2" class="sr-only"></label>
+<label id="social-links-list-label-5" class="sr-only"></label>
 
-<ul class="social-links" aria-labelledby="social-links-list-label-2">
+<ul class="social-links" aria-labelledby="social-links-list-label-5">
         <li class="social-links__menu-item">
             <a
                 href="https://www.linkedin.com/company/london-network-automation-meetup/"
@@ -226,7 +319,6 @@
         </li>
     
 </ul>
-
                 </div>
 
                 
@@ -264,154 +356,21 @@
 
         <main class="page-main">
             
-    
-
-
     <div class="section-container">
         <section class="section">
-            <h1 class="heading heading--1">Our Location
-            </h1>
-
-            
-                <address class="location__address">
-                    
-                        AWS Experience
-                        <br />
-                    
-                        60 Holborn Viaduct
-                        <br />
-                    
-                        London EC1A 2FD
-                        <br />
-                    
-                        United Kingdom
-                        <br />
-                    
-                </address>
-            
-
-            
-
-
-
-<div class="directions-card">
-    <div class="directions-card__image">
-
-
-<article class="shaped-image">
-        <figure class="shaped-image__figure"><svg width="100%" height="100%" viewBox="0 0 77 77" xmlns="http://www.w3.org/2000/svg">
-    <circle fill="currentColor" cx="1.66343" cy="74.5221" r="1.66343" transform="rotate(-90 1.66343 74.5221)" />
-    <circle fill="currentColor" cx="1.66343" cy="30.94" r="1.66343" transform="rotate(-90 1.66343 30.94)" />
-    <circle fill="currentColor" cx="16.3021" cy="74.5221" r="1.66343" transform="rotate(-90 16.3021 74.5221)" />
-    <circle fill="currentColor" cx="16.3021" cy="30.94" r="1.66343" transform="rotate(-90 16.3021 30.94)" />
-    <circle fill="currentColor" cx="30.9398" cy="74.5221" r="1.66343" transform="rotate(-90 30.9398 74.5221)" />
-    <circle fill="currentColor" cx="30.9398" cy="30.94" r="1.66343" transform="rotate(-90 30.9398 30.94)" />
-    <circle fill="currentColor" cx="45.5785" cy="74.5221" r="1.66343" transform="rotate(-90 45.5785 74.5221)" />
-    <circle fill="currentColor" cx="45.5785" cy="30.94" r="1.66343" transform="rotate(-90 45.5785 30.94)" />
-    <circle fill="currentColor" cx="60.2162" cy="74.5216" r="1.66343" transform="rotate(-90 60.2162 74.5216)" />
-    <circle fill="currentColor" cx="74.6634" cy="74.5216" r="1.66343" transform="rotate(-90 74.6634 74.5216)" />
-    <circle fill="currentColor" cx="60.2162" cy="30.9399" r="1.66343" transform="rotate(-90 60.2162 30.9399)" />
-    <circle fill="currentColor" cx="74.6634" cy="30.9399" r="1.66343" transform="rotate(-90 74.6634 30.9399)" />
-    <circle fill="currentColor" cx="1.66343" cy="59.8839" r="1.66343" transform="rotate(-90 1.66343 59.8839)" />
-    <circle fill="currentColor" cx="1.66343" cy="16.3017" r="1.66343" transform="rotate(-90 1.66343 16.3017)" />
-    <circle fill="currentColor" cx="16.3021" cy="59.8839" r="1.66343" transform="rotate(-90 16.3021 59.8839)" />
-    <circle fill="currentColor" cx="16.3021" cy="16.3017" r="1.66343" transform="rotate(-90 16.3021 16.3017)" />
-    <circle fill="currentColor" cx="30.9398" cy="59.8839" r="1.66343" transform="rotate(-90 30.9398 59.8839)" />
-    <circle fill="currentColor" cx="30.9398" cy="16.3017" r="1.66343" transform="rotate(-90 30.9398 16.3017)" />
-    <circle fill="currentColor" cx="45.5785" cy="59.8839" r="1.66343" transform="rotate(-90 45.5785 59.8839)" />
-    <circle fill="currentColor" cx="45.5785" cy="16.3017" r="1.66343" transform="rotate(-90 45.5785 16.3017)" />
-    <circle fill="currentColor" cx="60.2162" cy="59.8839" r="1.66343" transform="rotate(-90 60.2162 59.8839)" />
-    <circle fill="currentColor" cx="74.6634" cy="59.8839" r="1.66343" transform="rotate(-90 74.6634 59.8839)" />
-    <circle fill="currentColor" cx="60.2162" cy="16.3017" r="1.66343" transform="rotate(-90 60.2162 16.3017)" />
-    <circle fill="currentColor" cx="74.6634" cy="16.3017" r="1.66343" transform="rotate(-90 74.6634 16.3017)" />
-    <circle fill="currentColor" cx="1.66343" cy="45.2455" r="1.66343" transform="rotate(-90 1.66343 45.2455)" />
-    <circle fill="currentColor" cx="1.66343" cy="1.66344" r="1.66343" transform="rotate(-90 1.66343 1.66344)" />
-    <circle fill="currentColor" cx="16.3021" cy="45.2455" r="1.66343" transform="rotate(-90 16.3021 45.2455)" />
-    <circle fill="currentColor" cx="16.3021" cy="1.66342" r="1.66343" transform="rotate(-90 16.3021 1.66342)" />
-    <circle fill="currentColor" cx="30.9398" cy="45.2455" r="1.66343" transform="rotate(-90 30.9398 45.2455)" />
-    <circle fill="currentColor" cx="30.9398" cy="1.66342" r="1.66343" transform="rotate(-90 30.9398 1.66342)" />
-    <circle fill="currentColor" cx="45.5785" cy="45.2455" r="1.66343" transform="rotate(-90 45.5785 45.2455)" />
-    <circle fill="currentColor" cx="45.5785" cy="1.66344" r="1.66343" transform="rotate(-90 45.5785 1.66344)" />
-    <circle fill="currentColor" cx="60.2162" cy="45.2458" r="1.66343" transform="rotate(-90 60.2162 45.2458)" />
-    <circle fill="currentColor" cx="74.6634" cy="45.2458" r="1.66343" transform="rotate(-90 74.6634 45.2458)" />
-    <circle fill="currentColor" cx="60.2162" cy="1.66371" r="1.66343" transform="rotate(-90 60.2162 1.66371)" />
-    <circle fill="currentColor" cx="74.6634" cy="1.66371" r="1.66343" transform="rotate(-90 74.6634 1.66371)" />
-</svg>
-
-        </figure>
-
-
-    <img
-            class="shaped-image__image"
-                src="/images/shaped-image-fallback.webp"
-        alt="London, UK"
-        
-            width="" height=""
-         />
+            <article class="layout-single-default">
+<h1 class="heading heading--1" id="lnam-location">LNAM Location</h1><p>The LNAM event will be hosted thanks to AWS at their offices in London:</p>
+<p>AWS Experience<br>
+60 Holborn Viaduct<br>
+London EC1A 2FD<br>
+United Kingdom</p>
+<p><a
+  class="link"
+  href="https://maps.app.goo.gl/C29jkcDcuAyGbWDm7"rel="external">Google Maps Location</a>
+</p>
 </article>
-
-    </div>
-    <article class="directions-card__description">
-        <h2 class="heading heading--2">Directions</h2>
-        <div class="markdown">Directions for getting to the location using public transportation.
-Customize this placeholder text in your Hugo configuration file or remove it if not needed.</div>
-    </article>
-</div>
-
         </section>
     </div>
-
-
-<div class="map-container">
-    <iframe
-        class="map-container__iframe"
-        scrolling="no"
-        allowfullscreen
-        src="https://maps.app.goo.gl/C29jkcDcuAyGbWDm7"
-        title="Interactive map showing the location of the event"></iframe>
-</div>
-
-
-
-<div class="section-container section-container--highlighted">
-    <section class="section section--long cta-section">
-        <h1 class="cta-section__heading">Have you discovered something exciting?</h1>
-
-        <h2 class="cta-section__subheading">Register today!</h2>
-
-        <p class="cta-section__message">Don&#39;t miss the chance to learn from leading experts and make valuable
-contacts!
-</p>
-
-
-    
-    
-    <a class="button button--outlined" href="https://www.meetup.com/london-network-automation-meetup/events/310820780/?eventOrigin=group_upcoming_events" rel="noopener noreferrer" rel="external" target="_blank">
-        Register now!
-        <div class="button__icon">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30" width="100%" height="100%">
-    <path
-        style="fill:none;stroke:currentColor;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;"
-        d="M22,14v10c0,0.552-0.448,1-1,1H6c-0.552,0-1-0.448-1-1V9c0-0.552,0.448-1,1-1h10" />
-    <polyline
-        style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
-        points="26,10 26,4 20,4 " />
-    <line
-        style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
-        x1="26"
-        y1="4"
-        x2="14"
-        y2="16" />
-    <polygon points="23,16 21,16 21,13.421 23,11.421 " style="fill: currentColor;" />
-    <polygon points="14,7 14,9 16.579,9 18.579,7 " style="fill: currentColor;" />
-</svg>
-
-        </div>
-    </a>
-
-
-    </section>
-</div>
 
         </main>
 
@@ -421,30 +380,7 @@ contacts!
                 <div class="page-footer-section__start">
                     
                     
-
-
-
-
-<label id="social-links-list-label-3" class="sr-only">Social media links</label>
-
-<ul class="social-links" aria-labelledby="social-links-list-label-3">
-        <li class="social-links__menu-item">
-            <a
-                href="https://www.linkedin.com/company/london-network-automation-meetup/"
-                aria-label="LinkedIn"
-                target="_blank"
-                rel="noopener noreferrer external"
-                class="social-links__link page-footer-section__social-link"><svg width="100%" height="100%" viewBox="5 5 30 30" xmlns="http://www.w3.org/2000/svg">
-    <path
-        fill="currentColor"
-        d="M10.9886 8.41679C10.9882 9.25664 10.6542 10.0619 10.06 10.6555C9.46583 11.2491 8.66021 11.5823 7.82036 11.5819C6.9805 11.5814 6.17522 11.2474 5.58165 10.6533C4.98808 10.0591 4.65485 9.25347 4.65527 8.41362C4.65569 7.57377 4.98973 6.76848 5.58389 6.17491C6.17805 5.58134 6.98367 5.24812 7.82352 5.24854C8.66338 5.24896 9.46866 5.58299 10.0622 6.17715C10.6558 6.77131 10.989 7.57693 10.9886 8.41679ZM11.0836 13.9268H4.75027V33.7501H11.0836V13.9268ZM21.0903 13.9268H14.7886V33.7501H21.0269V23.3476C21.0269 17.5526 28.5794 17.0143 28.5794 23.3476V33.7501H34.8336V21.1943C34.8336 11.4251 23.6553 11.7893 21.0269 16.5868L21.0903 13.9268Z" />
-</svg>
-
-            </a>
-        </li>
-    
-</ul>
-
+                    
                 </div>
 
 

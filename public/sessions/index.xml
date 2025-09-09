@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>RAG for Networks: Building AI-Ready Knowledge Bases</title>
+      <link>http://localhost:1313/sessions/rag-for-networks-building-ai-ready-knowledge-bases-1030176/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/rag-for-networks-building-ai-ready-knowledge-bases-1030176/</guid>
+      <description>&lt;p&gt;Retrieval-Augmented Generation (RAG) is becoming a cornerstone of enterprise AI adoption, but how can it be applied effectively in the world of networking? In this session, we’ll define RAG in plain terms and show how it can deliver tangible business benefits by transforming fragmented network documentation, design records and network procedures into an AI-ready knowledge base.&lt;/p&gt;&#xA;&lt;p&gt;We’ll explore why RAG is particularly relevant for networking and how it differs from MCP-style orchestration and Agentic actions. Attendees will learn why traditional text chunking and vector databases, while useful, are not enough on their own. Instead, we’ll demonstrate how a graph-aware format like JSON-LD can supercharge retrieval precision, enabling GenAI systems to reason over complex network relationships.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Welcome to LNAM</title>
       <link>http://localhost:1313/sessions/welcome-to-lnam-1029210/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
